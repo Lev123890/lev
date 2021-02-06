@@ -1,0 +1,46 @@
+﻿body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:white ;
+    padding: 10px;
+    border: 6px solid darkblue;
+    border-radius: 10px;
+}
+header a {
+    background-color:darkblue;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white ;b
+}
+nav a{
+    border: 4px solid darkblue;
+padding: 2px;
+border-radius: 10px;
+text-decoration: none;
+color: black ;
+}
+
+nav{
+margin: 20px;
+text-align: center;
+}
+
+
+h1 {color: darkblue ;text-align: center;
+
+}
+
+
+footer p{
+    border: 5px solid darkblue;
+    padding: 5px;
+}
+
+.fei{
+    border: 4px solid darkblue;
+    border-radius: 10px;
+    padding: 3px;
+}
